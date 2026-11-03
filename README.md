@@ -18,4 +18,4 @@ Data Science student at **UC Berkeley**, working toward **AI product engineering
 **Web / apps:** React · FastAPI · Tauri · Supabase · Vercel · GitHub Actions
 
 ### Currently
-Studying probability and data science at Berkeley and looking for **AI / software engineering internships**.
+Studying data science and energy and resources at Berkeley and looking for **AI / data science internships**.
